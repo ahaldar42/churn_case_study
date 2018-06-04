@@ -55,4 +55,4 @@ if get_dummies:
 #----------------------------------------------------------
 #   Output Scrubbed CSV
 #----------------------------------------------------------
-churn.to_csv('data/scrubbed_data.csv', index=False)
+churn.to_csv('data/scrubbed.csv', index=False)
